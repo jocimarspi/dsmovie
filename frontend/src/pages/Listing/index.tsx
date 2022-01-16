@@ -32,7 +32,7 @@ function Listing() {
 
   const handlePageChange = (newPageNumber: number) => {
     setPageNumber(newPageNumber)
-  }
+  }  
 
   return (
     <>
